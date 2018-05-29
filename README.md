@@ -1,2 +1,2 @@
-# helloWorld
-Trying out stufff
+# Intro
+Trying out GitHub, let's see how it goes...
